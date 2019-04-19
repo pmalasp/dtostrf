@@ -3,7 +3,7 @@
  *    This is a dtostrf implementation specially aimed at Arduino or general embedded programming, 
  *    whith a small code footprint compared to other implementations which make use of stdio libraries
  *
- *    Copyright (C) 2019  Paolo Malaspina
+ *    Copyright (C) 2019  Paolo Malaspina, https://www.linkedin.com/in/paolomalaspina/
  *
  *    This program is free software: you can redistribute it and/or modify
  *    it under the terms of the GNU General Public License as published by
